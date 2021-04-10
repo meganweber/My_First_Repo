@@ -1,0 +1,46 @@
+nav {
+  height: 50px;
+  background-color: lightgrey;
+}
+
+/* target the class of inline-block below */
+.inline-block {
+	display: inline-block;
+	padding: 15px;
+	font: 15px Helvetica, sans-serif;
+}
+
+/* target the class of .left below */
+.left{
+	height: 500px;
+	float: left;
+	background-color: darkGray;
+	width: 29%;
+	text-align: center;
+	font: 15px Helvetica, sans-serif;
+	
+}
+
+/* target the class of .right below */
+.right{
+	height: 500px;
+	float: left;
+	background-color: lightGreen;
+	width: 70%;
+	text-align: center;
+	
+}
+
+/commented out
+
+.card{
+	display: inline-block;
+	background-color: #c6c6c6;
+	border-radius: 5px;
+	height: 200px;
+	width: 150px;
+	margin: 35px;
+	margin-top: 50px;
+
+
+}
